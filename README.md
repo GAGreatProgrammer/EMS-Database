@@ -6,4 +6,4 @@
 
 Database for Employees Management System (EMS)
 
-![EMS Main Form](https://raw.githubusercontent.com/GAGreatProgrammer/Employees-Management-System-EMS/master/Database.PNG)
+![EMS Main Form](https://raw.githubusercontent.com/GAGreatProgrammer/EMS-Database/main/Database.PNG)
