@@ -1,6 +1,6 @@
 # **EMS Database** 
 ---
-![Developed_by](https://img.shields.io/badge/Developed_by-GTU_IMS_108930-green) ![SQL Server](https://img.shields.io/badge/Database-Microsoft_SQL_Server-white) ![GitHub](https://img.shields.io/github/license/GAGreatProgrammer/EMS-Database?color=orange) 
+![Developed_by](https://img.shields.io/badge/Developed_by-GAGreatProgrammer-green) ![SQL Server](https://img.shields.io/badge/Database-Microsoft_SQL_Server-white) ![GitHub](https://img.shields.io/github/license/GAGreatProgrammer/EMS-Database?color=orange) 
 
 <br/>
 
